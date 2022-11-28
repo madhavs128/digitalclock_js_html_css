@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.container{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 70px;
+    color: antiquewhite;
+     position:absolute;
+    top:40%;
+    left: 33%;
+}
